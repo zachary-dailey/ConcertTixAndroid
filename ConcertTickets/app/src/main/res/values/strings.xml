@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Concert Tickets</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear">Clear</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="calcCost">Calculate Cost</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">Calculate Cost</string>
+
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+</resources>
